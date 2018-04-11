@@ -1,6 +1,5 @@
 <p align="center">
-  <br>
-  <img src="./logo-awesome-mautic.png" alt="logo of vue-awesome repository">
+  <img src="./logo-awesome-mautic.png" alt="Mautic Awesome List Logo">
   <br>
   <br>
 </p>
@@ -41,7 +40,7 @@
 
 ## Projects
 
-- [mnickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) - Easily change the logos, colors and company name in the Mautic user interface
+- [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) - Easily change the logos, colors and company name in the Mautic user interface
 - [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
 
 ##### This Awesome List is Sponsored by
