@@ -14,12 +14,13 @@ Do you have a plugin, theme or snippet? [Make a pull request!](https://github.co
 
 <!-- TOC -->
 
-- [Awesome Mautic](#awesome-mautic)
-  - [Official Repositories](#official-repositories)
-  - [Plugins](#plugins)
-  - [Libraries](#libraries)
-  - [Themes](#themes)
-  - [Projects](#projects)
+**Table of Contents**
+
+- [Official Repositories](#official-repositories)
+- [Plugins](#plugins)
+- [Libraries](#libraries)
+- [Themes](#themes)
+- [Projects](#projects)
     
 > This Awesome List is Sponsored by [Powertic)(https://powertic.com).
 
