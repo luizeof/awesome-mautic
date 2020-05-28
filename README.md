@@ -20,7 +20,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [Themes](#themes)
 - [Projects](#projects)
     
-*This Awesome List is Sponsored by [Powertic)(https://powertic.com).*
+*This Awesome List is Sponsored by https://powertic.com*.
 
 <!-- /TOC -->
 
