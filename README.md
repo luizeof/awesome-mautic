@@ -32,6 +32,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [mauitic/api-library](https://github.com/mautic/api-library) - Mautic PHP API Library Wrapper
 - [mautic/wordpress](https://github.com/mautic/mautic-wordpress) - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
 - [mautic/composer-plugin](https://github.com/mautic/composer-plugin) - A composer plugin that mautic plugin and theme developers can use to distribute their code.
+- [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) - Zapier JS app communicating with Mautic
 
 ## Plugins
 
@@ -52,7 +53,6 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [KonstantinCodes/mautic-recaptcha](https://github.com/KonstantinCodes/mautic-recaptcha) - This Plugin brings reCAPTCHA integration to mautic.
 - [mautic-inc/plugin-slooce](https://github.com/mautic-inc/plugin-slooce) - Slooce SMS Transport for Mautic
 - [mtcextendee/mautic-recommender-bundle](https://github.com/mtcextendee/mautic-recommender-bundle) - The first product recommendations system for Mautic
-- [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) - Zapier JS app communicating with Mautic
 - [hostnetbr/mautic-namesanitizer](https://github.com/hostnetbr/mautic-namesanitizer) - Um plugin do Mautic que faz uma correção e limpeza nos nomes dos contatos cadastrados
 - [hostnetbr/mautic-googleauthenticator](https://github.com/hostnetbr/mautic-googleauthenticator) - Enables Google Authentication on Mautic Login
 
