@@ -14,6 +14,7 @@
 - [Awesome Mautic](#awesome-mautic)
   - [Official Repositories](#official-repositories)
   - [Plugins](#plugins)
+  - [Libraries](#libraries)
   - [Themes](#themes)
   - [Projects](#projects)
         - [This Awesome List is Sponsored by](#this-awesome-list-is-sponsored-by)
@@ -32,6 +33,11 @@
 ## Plugins
 
 - [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
+
+## Libraries
+
+- [mautic_tracking_api](https://github.com/powerticmkt/dart-mautic-tracking-api) - Mautic plugin for App User Monitoring and Tracking easily for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_tracking_api).
+- [mautic_api](https://github.com/powerticmkt/dart-mautic-api) - Mautic API Wrapper for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_api)
 
 ## Themes
 
