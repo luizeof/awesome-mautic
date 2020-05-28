@@ -44,7 +44,4 @@
 - [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
 
 ##### This Awesome List is Sponsored by
-<p align="center">
   <a href="https://powertic.com/hospedagem-mautic/">Powertic</a>
-  <br>
-</p>
