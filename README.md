@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./logo-awesome-mautic.png" alt="Mautic Awesome List">
-  <br>
-  <br>
-</p>
 
 # Awesome Mautic
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
@@ -10,6 +5,12 @@
 A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Repositories and Themes.
 
 Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls).
+
+<p align="center">
+  <img src="./logo-awesome-mautic.png" alt="Mautic Awesome List">
+  <br>
+  <br>
+</p>
 
 <!-- TOC -->
 
