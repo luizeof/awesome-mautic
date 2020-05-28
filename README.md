@@ -72,5 +72,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) - Easily change the logos, colors and company name in the Mautic user interface
 - [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
 
-##### This Awesome List is Sponsored by
-  <a href="https://powertic.com/">Powertic</a>
+
+<hr />
+
+This Awesome List is Sponsored by  <a href="https://powertic.com/">Powertic</a>
