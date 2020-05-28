@@ -15,8 +15,6 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [Libraries](#libraries)
 - [Themes](#themes)
 - [Projects](#projects)
-    
-*This Awesome List is Sponsored by https://powertic.com*.
 
 <!-- /TOC -->
 
@@ -29,6 +27,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [mautic/wordpress](https://github.com/mautic/mautic-wordpress) - Wordpress Plugin to add Tracking Code and Custom Shortcodes for using Forms, Tags, Focus and Dinamic Content on Wordpress Pages
 - [mautic/composer-plugin](https://github.com/mautic/composer-plugin) - A composer plugin that mautic plugin and theme developers can use to distribute their code.
 - [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) - Zapier JS app communicating with Mautic
+- 
 
 ## Plugins
 
