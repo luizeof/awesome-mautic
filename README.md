@@ -8,13 +8,11 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 
 <p align="center">
   <img src="./logo-awesome-mautic.png" alt="Mautic Awesome List">
-  <br>
-  <br>
 </p>
 
 <!-- TOC -->
 
-**Table of Contents**
+## Table of Contents
 
 - [Official Repositories](#official-repositories)
 - [Plugins](#plugins)
