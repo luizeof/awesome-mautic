@@ -7,7 +7,9 @@
 # Awesome Mautic
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> A Curated List of [Mautic](https://mautic.org) Plugins, Blogs, Repositories and Themes by [Powertic Marketing](https://powertic.com/)
+A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Repositories and Themes.
+
+Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls).
 
 <!-- TOC -->
 
@@ -17,7 +19,8 @@
   - [Libraries](#libraries)
   - [Themes](#themes)
   - [Projects](#projects)
-        - [This Awesome List is Sponsored by](#this-awesome-list-is-sponsored-by)
+    
+> This Awesome List is Sponsored by [Powertic)(https://powertic.com).
 
 <!-- /TOC -->
 
