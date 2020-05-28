@@ -4,7 +4,7 @@
 
 A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Repositories and Themes.
 
-Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls).
+Do you have a plugin, theme or snippet? [Make a pull request!](https://github.com/luizeof/awesome-mautic/pulls)
 
 <p align="center">
   <img src="./logo-awesome-mautic.png" alt="Mautic Awesome List">
