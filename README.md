@@ -58,6 +58,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [https://github.com/moisesbaez/mautic-tracking](https://github.com/moisesbaez/mautic-tracking) - React Tracking tool for Mautic
 - [luk4s/mautic-rails](https://github.com/luk4s/mautic-rails) - Mautic ruby client / wrapper
 - [mjclemente/mauticcfml](https://github.com/mjclemente/mauticcfml) - A CFML wrapper for the Mautic marketing and campaign management API
+- [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
 
 ## Themes
 
@@ -70,8 +71,6 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 
 - [https://mautibox.com/](https://mautibox.com/) - A (really) simple PR testing service for Mautic https://mautibox.com
 - [nickian/mautic-whitelabeler](https://github.com/nickian/mautic-whitelabeler) - Easily change the logos, colors and company name in the Mautic user interface
-- [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
-
 
 <hr />
 
