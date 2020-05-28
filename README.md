@@ -32,13 +32,23 @@
 
 ## Plugins
 
+- [mautic/mautic-typo3](https://github.com/mautic/mautic-typo3) - Add-on TYPO3 extension
 - [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
+- [ChrisRAoW/mautic-rss-to-email-bundle](https://github.com/ChrisRAoW/mautic-rss-to-email-bundle) - Mautic plugin to send emails from RSS
+- [azamuddin/mautic-mailgun-plugin](https://github.com/azamuddin/mautic-mailgun-plugin) - Mautic plugin to add mailgun transport
 - [TheDMSGroup/mautic-extended-field](https://github.com/TheDMSGroup/mautic-extended-field) - Extends Mautic custom fields for scalability and HIPAA/PCI compliance.
 - [TheDMSGroup/mautic-contact-ledger](https://github.com/TheDMSGroup/mautic-contact-ledger) - Historical accounting for contacts in Mautic.
 - [Logicify/mautic-advanced-templates-bundle](https://github.com/Logicify/mautic-advanced-templates-bundle) - Plugin extends default email template capabilities with TWIG block
 - [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
+- [mtcextendee/mautic-extendee-form-tab-bundle](https://github.com/mtcextendee/mautic-extendee-form-tab-bundle) - FromTab bundle added related contacts form results to contacts profile.
+- [mtcextendee/mautic-extendee-webhook-response-bundle](https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle) - Get Webhook Response from Mautic
 - [Monogramm/MauticLdapAuthBundle](https://github.com/Monogramm/MauticLdapAuthBundle) - Enables LDAP authentication for mautic 2 and newer
 - [mtcextendee/mautic-international-phone-input-bundle](https://github.com/mtcextendee/mautic-international-phone-input-bundle) - This plugin brings International phone input to Mauti forms
+- [https://github.com/mtcextendee/mautic-plivo-bundle](https://github.com/mtcextendee/mautic-plivo-bundle) - Plivo SMS integration for Mautic
+- [mtcextendee/mautic-badge-generator-bundle](https://github.com/mtcextendee/mautic-badge-generator-bundle) - Badge PDF generator
+- [KonstantinCodes/mautic-recaptcha](https://github.com/KonstantinCodes/mautic-recaptcha) - This Plugin brings reCAPTCHA integration to mautic.
+- [mautic-inc/plugin-slooce](https://github.com/mautic-inc/plugin-slooce) - Slooce SMS Transport for Mautic
+
 
 ## Libraries
 
