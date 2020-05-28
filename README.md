@@ -36,8 +36,8 @@
 
 ## Libraries
 
-- [mautic_tracking_api](https://github.com/powerticmkt/dart-mautic-tracking-api) - Mautic plugin for App User Monitoring and Tracking easily for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_tracking_api).
-- [mautic_api](https://github.com/powerticmkt/dart-mautic-api) - Mautic API Wrapper for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_api)
+- [powerticmkt/mautic_tracking_api](https://github.com/powerticmkt/dart-mautic-tracking-api) - Mautic plugin for App User Monitoring and Tracking easily for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_tracking_api).
+- [powerticmkt/mautic_api](https://github.com/powerticmkt/dart-mautic-api) - Mautic API Wrapper for Dart and Flutter. Also listed at [pub.dev](https://pub.dev/packages/mautic_api)
 
 ## Themes
 
