@@ -53,7 +53,8 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [mtcextendee/mautic-badge-generator-bundle](https://github.com/mtcextendee/mautic-badge-generator-bundle) - Badge PDF generator
 - [KonstantinCodes/mautic-recaptcha](https://github.com/KonstantinCodes/mautic-recaptcha) - This Plugin brings reCAPTCHA integration to mautic.
 - [mautic-inc/plugin-slooce](https://github.com/mautic-inc/plugin-slooce) - Slooce SMS Transport for Mautic
-
+- [mtcextendee/mautic-recommender-bundle](https://github.com/mtcextendee/mautic-recommender-bundle) - The first product recommendations system for Mautic
+- [mautic/mautic-zapier](https://github.com/mautic/mautic-zapier) - Zapier JS app communicating with Mautic
 
 ## Libraries
 
@@ -67,6 +68,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 
 - [jojotjebaby/mautic-theme-builder](https://github.com/jojotjebaby/mautic-theme-builder) - A theme builder for Mautic
 - [powerticmkt/new-blank-theme](https://github.com/powerticmkt/new-blank-theme) - Full width blank theme for Mautic
+- [Logicify/mautic-theme-skeleton](https://github.com/Logicify/mautic-theme-skeleton) - A skeleton for the Mautic theme with configured SCSS compiler, css inliner and html minifier 
 
 ## Projects
 
