@@ -45,6 +45,6 @@
 
 ##### This Awesome List is Sponsored by
 <p align="center">
-  <a href="https://powertic.com/hospedagem-mautic/"><img  src="https://powertic.com/wp-content/uploads/2017/11/cover-powertic.png" alt="Powertic Marketing"></a>
+  <a href="https://powertic.com/hospedagem-mautic/">Powertic</a>
   <br>
 </p>
