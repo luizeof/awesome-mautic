@@ -60,6 +60,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [luk4s/mautic-rails](https://github.com/luk4s/mautic-rails) - Mautic ruby client / wrapper
 - [mjclemente/mauticcfml](https://github.com/mjclemente/mauticcfml) - A CFML wrapper for the Mautic marketing and campaign management API
 - [escopez/mautic-form-submit](https://github.com/escopecz/mautic-form-submit) - PHP library to forward data to a Mautic form
+- [QuentinJaillet/MauticApiClient.Net](https://github.com/QuentinJaillet/MauticApiClient.Net) - Mautic .NET client / wrapper
 
 ## Themes
 
