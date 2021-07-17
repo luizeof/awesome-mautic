@@ -39,6 +39,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [TheDMSGroup/mautic-contact-ledger](https://github.com/TheDMSGroup/mautic-contact-ledger) - Historical accounting for contacts in Mautic.
 - [Logicify/mautic-advanced-templates-bundle](https://github.com/Logicify/mautic-advanced-templates-bundle) - Plugin extends default email template capabilities with TWIG block
 - [thirdset/ThirdSetMauticTimingBundle](https://github.com/thirdset/ThirdSetMauticTimingBundle) - Mautic plugin for setting the timing (hours of the day, days of the week, etc) for when to trigger campaign events.
+- [karser/MauticColdEmailOutreachBundle](https://github.com/karser/MauticColdEmailOutreachBundle) - Send follow-ups in the same email thread for any A/B test variation
 - [mtcextendee/mautic-extendee-form-tab-bundle](https://github.com/mtcextendee/mautic-extendee-form-tab-bundle) - FromTab bundle added related contacts form results to contacts profile.
 - [mtcextendee/mautic-extendee-webhook-response-bundle](https://github.com/mtcextendee/mautic-extendee-webhook-response-bundle) - Get Webhook Response from Mautic
 - [Monogramm/MauticLdapAuthBundle](https://github.com/Monogramm/MauticLdapAuthBundle) - Enables LDAP authentication for mautic 2 and newer
