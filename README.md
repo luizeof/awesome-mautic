@@ -51,6 +51,7 @@ A Curated List of [Mautic](https://github.com/mautic/mautic) Plugins, Blogs, Rep
 - [hostnetbr/mautic-namesanitizer](https://github.com/hostnetbr/mautic-namesanitizer) - Um plugin do Mautic que faz uma correção e limpeza nos nomes dos contatos cadastrados
 - [hostnetbr/mautic-googleauthenticator](https://github.com/hostnetbr/mautic-googleauthenticator) - Enables Google Authentication on Mautic Login
 - [gautit.com/gautit-backup-plugin](https://gautit.com/gautit-backup-plugin/) - Make Mautic Backup from Admin interface
+- [roghumi/iran-sms-bundle](https://github.com/roghumi/IrSmsBundle) - Send Sms to Iranian Sms Providers, Send Sms to single contact or in campaigns
 
 ## Libraries
 
